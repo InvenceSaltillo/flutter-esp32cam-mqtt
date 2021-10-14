@@ -1,0 +1,9 @@
+{
+    "folders": [
+		{
+			"name": "flutter-esp32cam-mqtt",
+			"path": "."
+		}
+	],
+    "settings": {}
+}
